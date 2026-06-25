@@ -28,7 +28,6 @@ from flight_reviews.config import (
     PAGE_SIZE,
     REQUEST_DELAY_SECS,
     REQUEST_TIMEOUT_SECS,
-    VERIFIED_TAG,
 )
 
 logger = logging.getLogger(__name__)

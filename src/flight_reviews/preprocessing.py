@@ -17,7 +17,7 @@ import re
 
 import pandas as pd
 
-from flight_reviews.config import MIN_WORD_LENGTH, STOPWORDS, VERIFIED_TAG
+from flight_reviews.config import VERIFIED_TAG
 
 logger = logging.getLogger(__name__)
 

@@ -12,7 +12,7 @@ try:
     from importlib.metadata import version, PackageNotFoundError
 
     __version__ = version("flight-reviews-analysis")
-except Exception:
+except PackageNotFoundError:
     __version__ = "dev"
 
 __all__ = ["__version__"]
