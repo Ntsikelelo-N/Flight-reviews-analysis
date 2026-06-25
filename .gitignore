@@ -12,10 +12,7 @@ dist/
 .eggs/
 
 # Virtual environments
-.venv/
-venv/
-ENV/
-env/
+flight_review_venv/
 
 # Jupyter / IPython
 .ipynb_checkpoints/
@@ -23,7 +20,7 @@ env/
 profile_default/
 ipython_config.py
 
-# Data  (raw data should never be committed to version control)
+# Data  
 data/raw/*.csv
 data/raw/*.json
 data/raw/*.parquet
@@ -50,5 +47,4 @@ coverage.xml
 *~
 .DS_Store
 Thumbs.db
-flight_review_venv/
-flight_review_venv/
+
