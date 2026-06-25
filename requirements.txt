@@ -1,7 +1,15 @@
-ipykernel==6.29.4
-pandas==2.2.2
-seaborn==0.13.2
-textblob==0.19.0
-beautifulsoup4==4.12.3
-matplotlib==3.9.2
-scikit-learn==1.6.1
+# Runtime dependencies
+beautifulsoup4>=4.12,<5
+matplotlib>=3.9,<4
+pandas>=2.2,<3
+requests>=2.31,<3
+scikit-learn>=1.6,<2
+seaborn>=0.13,<1
+textblob>=0.19,<1
+
+# Development / notebook extras
+ipykernel>=6.29,<7
+jupyterlab>=4.0,<5
+pytest>=8.0,<9
+pytest-cov>=5.0,<6
+flake8>=7.0,<8
