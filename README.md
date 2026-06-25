@@ -18,9 +18,9 @@ modular design, and automated testing.
 
 | Metric | Value |
 |---|---|
-| Reviews analysed | ~2 850 verified reviews |
-| Positive sentiment | ~50% |
-| Negative sentiment | ~24% |
+| Reviews analysed | ~3 920 verified reviews |
+| Positive sentiment | ~64% |
+| Negative sentiment | ~35% |
 | Mean polarity score | +0.11 (weakly positive) |
 | Top positive words | service, crew, good, seat, comfortable |
 | Top negative words | delayed, cancelled, poor, staff, baggage |

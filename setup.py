@@ -36,6 +36,7 @@ setup(
             "jupyter>=1.0",
             "pytest>=8.0",
             "pytest-cov>=5.0",
+            "flake8>=7.0",
         ]
     },
     classifiers=[
